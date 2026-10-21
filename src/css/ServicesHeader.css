@@ -1,0 +1,32 @@
+.services-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-height: 24px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.breadcrumb-home {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #a1a1aa;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.breadcrumb-home:hover {
+  color: #ffffff;
+}
+
+.breadcrumb-arrow {
+  color: #a1a1aa;
+}
+
+.breadcrumb-current {
+  color: #6366f1;
+  white-space: nowrap;
+}
+
+
