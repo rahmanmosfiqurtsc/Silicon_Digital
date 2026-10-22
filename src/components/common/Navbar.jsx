@@ -46,7 +46,7 @@ export default function Navbar() {
                       <path d="m6 9 6 6 6-6" />
                     </svg>
                   </Link>
-                  <Link to="/servicedetail" >Portfolio</Link>
+                  <Link to="/portfolio" >Portfolio</Link>
                   <Link>About</Link>
                   <Link>Blog</Link>
                   <Link>Contact</Link>
